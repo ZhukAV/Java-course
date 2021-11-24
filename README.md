@@ -1,2 +1,3 @@
 # Java-course
-This is a laboratory works of Java
+This is a laboratory works of Java №6
+
